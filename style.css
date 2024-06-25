@@ -1,0 +1,153 @@
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.main-section{
+
+  background-size: cover;
+  padding: 7vh;
+  width: 70%;
+
+}
+
+.logo{
+  color: #c171c6;
+  text-decoration: none;
+  font-size: 2vw;
+ 
+}
+
+
+.search-bar{
+  border-radius: 40px;
+  border: none;
+  background-color:#ddc6da ;  
+  color: #5c1f84;
+outline: none;
+  
+}
+
+.submit-button{
+   border-radius: 40px;
+  padding: 5px;
+  width: 6vw;
+  margin-left: -75px;
+  background-color:#ec9ce2;
+  border: none;
+  color: #5c1f84;
+  outline: none;
+  font-family: "Satisfy", cursive;
+  color: #5c1f84;
+}
+
+.poop{
+color: #ec9ce2;
+text-decoration: none;
+}
+
+.main-section{
+  width: 65%;
+
+}
+.super-main{
+  background-color: #c084e1;
+
+}
+
+nav{
+  background-color: #5c1f84;
+  padding: 10px;
+}
+
+.pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ubuntu-mono-regular {
+  font-family: "Ubuntu Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+.poop {
+  font-family: "Satisfy", cursive;
+  font-weight: 550;
+  font-style: normal;
+  font-size: 23px;
+}
+
+
+.couple-info{
+  font-family: "Satisfy", cursive;
+  color: #5c1f84;
+  padding: 20px;
+  
+}
+
+.tiana{
+  padding: 35px;
+  border-radius: 8px;
+}
+
+
+
+.watermelon{
+  font-family: "Satisfy", cursive;
+  color: #5c1f84;
+  padding: 25px;
+}
+
+.row{
+  font-family: "Satisfy", cursive;
+  color: #5c1f84;
+}
+
+
+
+
+/* Animations */
+.image {
+  transition: transform 0.3s ease-in-out;
+}
+
+.image:hover {
+  transform: scale(1.05);
+  filter: brightness(110%);
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+}
+
+
+
+.spiderman{
+  padding: 25px;
+}
+
+.drip{
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: #2d9f92;
+}
+
+.hide{
+  font-family: "Satisfy", cursive;
+  text-align: center;
+}
+
+.seek{
+  margin-left: 50px;
+  border-radius: 8px;
+}
+
+.form{
+  width:50%;
+    /* margin : top-bottom right-left; */
+  margin:10px;
+}
+
+.sub-heading{
+  color:orange;
+}
